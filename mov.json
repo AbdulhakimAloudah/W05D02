@@ -1,0 +1,8 @@
+
+
+[{"id":1,"name":"The Shawshank Redemption","isFav":false,"isDeleted":true},
+  {"id":2,"name":"The Godfather","isFav":true,"isDeleted":true},
+  {"id":3,"name":"Angry Mens","isFav":false,"isDeleted":true},
+  {"id":4,"name":"theBigBangTheory","isFav":false,"isDeleted":true},
+  {"id":5,"name":"Schindler's List","isFav":false,"isDeleted":false},
+  {"id":6,"name":"Pulp Fiction","isFav":false,"isDeleted":true}]
